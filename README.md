@@ -38,5 +38,4 @@ course tutorial & exercises structure.
 </ul>
 
 <h3>Certification of Course Completion </h3>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/49714817/239677527-c00c4f32-43c9-4f6e-8d12-416271ef852f.png"
-     width="600" height="600"> 
+<img src="https://firebasestorage.googleapis.com/v0/b/testautomationu-9e0b6.appspot.com/o/certificates%2FTAU-3b0a2794.png?alt=media&token=f05b58eb-210c-4374-86b8-c32a64a33d93"> 
