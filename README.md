@@ -32,7 +32,6 @@ course tutorial & exercises structure.
 <li><em><a href="https://bonigarcia.dev/webdrivermanager/" rel="nofollow">WebDriverManager</a></em> as the browser driver management library.</li>
 <li><em><a href="https://testng.org/doc/" rel="nofollow">TestNG</a></em> as the testing framework.</li>
 <li><em><a href="https://assertj.github.io/doc/" rel="nofollow">AssertJ</a></em> as the assertion library.</li>
-<li><em><a href="https://projectlombok.org/" rel="nofollow">Lombok</a></em> to generate getters.</li>
 <li><em><a href="https://www.selenium.dev/selenium/docs/api/java/org/openqa/selenium/TakesScreenshot.html">Selenium TakesScreenshot Package</a></em> for capturing screenshots.</li>
 <li><em><a href="https://gradle.org/" rel="nofollow">Gradle</a></em> as the Java build tool.</li>
 <li><em><a href="https://www.jetbrains.com/idea/" rel="nofollow">IntelliJ IDEA</a></em> as the IDE.</li>
@@ -40,4 +39,4 @@ course tutorial & exercises structure.
 
 <h3>Certification of Course Completion </h3>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/49714817/239677527-c00c4f32-43c9-4f6e-8d12-416271ef852f.png"
-     width="300" height="300"> 
+     width="600" height="600"> 
