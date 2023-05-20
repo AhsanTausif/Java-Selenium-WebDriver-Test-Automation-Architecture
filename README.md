@@ -37,5 +37,21 @@ course tutorial & exercises structure.
 <li><em><a href="https://www.jetbrains.com/idea/" rel="nofollow">IntelliJ IDEA</a></em> as the IDE.</li>
 </ul>
 
-<h3>Certification of Course Completion </h3>
+<h2 tabindex="-1" dir="auto"><a id="user-content-languages-and-frameworks" class="anchor" aria-hidden="true"</a>Contents Covered within this architecture</h2>
+
+<ul dir="auto">
+<li> Various techniques to find elements such as buttons, links, text, dropdowns, and more within a web application</li>
+<li> WebDriver API calls to interact with those elements such as clicking, entering and reading text, selecting options, handling popups and alerts, uploading files, working with iframes, and more </li>
+<li> Advanced interactions, such as hovering and sending alternative keys like tab, as well as symbols </li>
+<li> How to integrate the WebDriver API with a test assertion library, such as TestNG </li>
+<li> How to organize our test code using the Page Object Model </li>
+<li> Various wait strategies to control the timing of our scripts and avoid flaky tests </li>
+<li> How to take screenshots during test executions </li>
+<li> How to have our code listen for specific WebDriver events and perform additional actions, like logging our test activity</li>
+<li> How to customize the browser used in test execution </li>
+<li> Advanced topics like navigating multiple open tabs within a browser, as well as cookie management </li>
+</ul>
+
+
+<h3>Certificate of Course Completion </h3>
 <img src="https://firebasestorage.googleapis.com/v0/b/testautomationu-9e0b6.appspot.com/o/certificates%2FTAU-3b0a2794.png?alt=media&token=f05b58eb-210c-4374-86b8-c32a64a33d93"> 
