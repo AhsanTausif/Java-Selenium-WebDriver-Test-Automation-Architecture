@@ -1,4 +1,4 @@
-<h2 tabindex="-1" dir="auto">></a>Selenium Java End To End Web Application Test Automation Architecture </h2>
+<h2 tabindex="-1" dir="auto"></a>Selenium Java End To End Web Application Test Automation Architecture </h2>
 
 <p dir="auto">This architectures follows the Page Object Model (POM) design and has been built following the <a href="https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/"> Selenium Web Driver with Java</a></p>
 course tutorial & exercises structure.
@@ -39,4 +39,5 @@ course tutorial & exercises structure.
 </ul>
 
 <h3>Certification of Course Completion </h3>
-![image](https://github.com/AhsanTausif/Java-Selenium-WebDriver-Test-Automation-Architecture/assets/49714817/c00c4f32-43c9-4f6e-8d12-416271ef852f)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/49714817/239677527-c00c4f32-43c9-4f6e-8d12-416271ef852f.png"
+     width="300" height="300"> 
