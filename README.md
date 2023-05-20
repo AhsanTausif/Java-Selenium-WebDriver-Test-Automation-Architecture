@@ -1,7 +1,7 @@
 <h2 tabindex="-1" dir="auto"></a>Selenium Java End To End Web Application Test Automation Architecture </h2>
 
-<p dir="auto">This architectures follows the Page Object Model (POM) design and has been built following the <a href="https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/"> Selenium Web Driver with Java</a></p>
-course tutorial & exercises structure.
+<p dir="auto">This architectures follows the Page Object Model (POM) design.
+This has been developed following the <a href="https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/"> Selenium Web Driver with Java</a> course tutorial & exercises structure. </p>
 
 <h2 tabindex="-1" dir="auto"><a id="user-content-installation-steps" class="anchor" aria-hidden="true" </a>Installation Steps</h2>
 <p dir="auto">In order to use the framework:</p>
