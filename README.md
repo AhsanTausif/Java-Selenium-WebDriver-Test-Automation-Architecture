@@ -11,7 +11,7 @@ This has been developed following the <a href="https://testautomationu.applitool
 <li>Clone, i.e, download your copy of the repository to your local machine using</li>
 </ol>
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>git clone https://github.com/[your_username]/selenium-java-test-automation-architecture.git
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>git clone https://github.com/[your_username]/Java-Selenium-WebDriver-Test-Automation-Architecture.git
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/[your_username]/selenium-java-test-automation-architecture.git" tabindex="0" role="button" style="display: inherit;">
     </clipboard-copy>
